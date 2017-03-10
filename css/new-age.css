@@ -72,11 +72,11 @@ p {
   font-family: 'Catamaran', 'Helvetica', 'Arial', 'sans-serif';
   font-weight: 200;
   letter-spacing: 1px;
-  color: #fdcc52;
+  color: rgb(37, 123, 199);
 }
 .navbar-default .navbar-header .navbar-brand:hover,
 .navbar-default .navbar-header .navbar-brand:focus {
-  color: #fcbd20;
+  color: rgb(37, 123, 199);
 }
 .navbar-default .navbar-header .navbar-toggle {
   font-size: 12px;
@@ -95,11 +95,11 @@ p {
 }
 .navbar-default .nav > li > a:hover,
 .navbar-default .nav > li > a:focus:hover {
-  color: #fdcc52;
+  color: rgb(37, 123, 199);
 }
 .navbar-default .nav > li.active > a,
 .navbar-default .nav > li.active > a:focus {
-  color: #fdcc52 !important;
+  color: rgb(37, 123, 199) !important;
   background-color: transparent;
 }
 .navbar-default .nav > li.active > a:hover,
@@ -414,8 +414,8 @@ footer ul li a.active {
 .btn-outline:active,
 .btn-outline.active {
   color: white;
-  background-color: #fdcc52;
-  border-color: #fdcc52;
+  background-color: rgb(79, 169, 37);
+  border-color: rgb(79, 169, 37);
 }
 .btn {
   font-family: 'Lato', 'Helvetica', 'Arial', 'sans-serif';
